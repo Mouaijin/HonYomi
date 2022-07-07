@@ -12,7 +12,7 @@
     <PackageReference Include="Hangfire" Version="1.7.0-beta1" />
     <PackageReference Include="Hangfire.MemoryStorage" Version="1.5.2" />
     <PackageReference Include="ID3" Version="0.5.0-beta.1" />
-    <PackageReference Include="Microsoft.AspNetCore.App" Version="2.1.1" />
+    <PackageReference Include="Microsoft.AspNetCore.App" Version="2.1.15" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="2.1.1" />
     <PackageReference Include="Xabe.FFmpeg" Version="3.1.0" />
   </ItemGroup>
